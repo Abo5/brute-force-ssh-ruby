@@ -43,8 +43,3 @@ File.foreach(wordlist_file).with_index do |line, idx|
 end
  
 puts "\nThe password wasn't found in the list !".red
-
-
-
- #51.75.67.236         95.177.165.109
- #pwd-ar.txt
